@@ -27,3 +27,32 @@
             <td><img src="https://avatars.githubusercontent.com/u/96863137?v=4" width="250"/></td>
             <td><img src="https://avatars.githubusercontent.com/u/97530721?v=4" width="250"/></td>
             <td><img src="https://avatars.githubusercontent.com/u/80213599?v=4" width="250"/></td>
+        </tr>
+    </tbody>
+</table>
+
+
+#### 2nd Crew
+
+<table>
+    <thead>
+        <tr>
+            <th style="text-align:center;"><a href="https://github.com/Developer-HyeonJi">나현지</a></th>
+            <th style="text-align:center;"><a href="https://github.com/">송다영</a></th>
+            <th style="text-align:center;"><a href="https://github.com/LeH050">이승희</a></th>            
+            <th style="text-align:center;"><a href="https://github.com/Yeojin0523">정여진</a></th>
+            <th style="text-align:center;"><a href="https://github.com/milkaisgoody">조정원</a></th>
+            <th style="text-align:center;"><a href="https://github.com/Jimin-Hwang00">황지민</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img src="https://avatars.githubusercontent.com/u/94388001?v=4" width="250"/></td>
+            <td><img src="" width="250"/></td>
+            <td><img src="https://avatars.githubusercontent.com/u/100256331?v=4" width="250"/></td>
+            <td><img src="https://avatars.githubusercontent.com/u/128468322?v=4" width="250"/></td>
+            <td><img src="https://avatars.githubusercontent.com/u/126080236?v=4" width="250"/></td>
+            <td><img src="https://avatars.githubusercontent.com/u/88023963?v=4" width="250"/></td>
+        </tr>
+    </tbody>
+</table>
