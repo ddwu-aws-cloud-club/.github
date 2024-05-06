@@ -38,7 +38,7 @@
     <thead>
         <tr>
             <th style="text-align:center;"><a href="https://github.com/Developer-HyeonJi">나현지</a></th>
-            <th style="text-align:center;"><a href="https://github.com/">송다영</a></th>
+            <th style="text-align:center;"><a href="https://github.com/songdass">송다영</a></th>
             <th style="text-align:center;"><a href="https://github.com/LeH050">이승희</a></th>            
             <th style="text-align:center;"><a href="https://github.com/Yeojin0523">정여진</a></th>
             <th style="text-align:center;"><a href="https://github.com/milkaisgoody">조정원</a></th>
@@ -48,7 +48,7 @@
     <tbody>
         <tr>
             <td><img src="https://avatars.githubusercontent.com/u/94388001?v=4" width="250"/></td>
-            <td><img src="" width="250"/></td>
+            <td><img src="https://avatars.githubusercontent.com/u/157861488?v=4" width="250"/></td>
             <td><img src="https://avatars.githubusercontent.com/u/100256331?v=4" width="250"/></td>
             <td><img src="https://avatars.githubusercontent.com/u/128468322?v=4" width="250"/></td>
             <td><img src="https://avatars.githubusercontent.com/u/126080236?v=4" width="250"/></td>
