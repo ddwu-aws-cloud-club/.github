@@ -34,25 +34,34 @@
 
 #### 2nd Crew
 
+
+
+
 <table>
     <thead>
         <tr>
-            <th style="text-align:center;"><a href="https://github.com/Developer-HyeonJi">나현지</a></th>
-            <th style="text-align:center;"><a href="https://github.com/songdass">송다영</a></th>
-            <th style="text-align:center;"><a href="https://github.com/LeH050">이승희</a></th>            
-            <th style="text-align:center;"><a href="https://github.com/Yeojin0523">정여진</a></th>
             <th style="text-align:center;"><a href="https://github.com/milkaisgoody">조정원</a></th>
             <th style="text-align:center;"><a href="https://github.com/Jimin-Hwang00">황지민</a></th>
+            <th style="text-align:center;"><a href="https://github.com/yslle">이승연</a></th>
+            <th style="text-align:center;"><a href="https://github.com/karamChoi2523">최가람</a></th>
+            <th style="text-align:center;"><a href="https://github.com/seplease">김시은</a></th>
+            <th>권민정</th>
+            <th>김민경</th>
+            <th>이가연</th>
+            <th>하서정</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><img src="https://avatars.githubusercontent.com/u/94388001?v=4" width="250"/></td>
-            <td><img src="https://avatars.githubusercontent.com/u/157861488?v=4" width="250"/></td>
-            <td><img src="https://avatars.githubusercontent.com/u/100256331?v=4" width="250"/></td>
-            <td><img src="https://avatars.githubusercontent.com/u/128468322?v=4" width="250"/></td>
             <td><img src="https://avatars.githubusercontent.com/u/126080236?v=4" width="250"/></td>
             <td><img src="https://avatars.githubusercontent.com/u/88023963?v=4" width="250"/></td>
+            <td><img src="https://avatars.githubusercontent.com/u/88431909?v=4" width="250"/></td>
+            <td><img src="https://avatars.githubusercontent.com/u/86296569?v=4" width="250"/></td>
+            <td><img src="https://avatars.githubusercontent.com/u/80445374?v=4" width="250"/></td>
+            <td><img src="https://github.com/user-attachments/assets/3975bb4c-32ae-461d-a807-3655bc8750b8" width="250"></td>
+            <td><img src="https://github.com/user-attachments/assets/3975bb4c-32ae-461d-a807-3655bc8750b8" width="250"></td>
+            <td><img src="https://github.com/user-attachments/assets/3975bb4c-32ae-461d-a807-3655bc8750b8" width="250"></td>
+            <td><img src="https://github.com/user-attachments/assets/3975bb4c-32ae-461d-a807-3655bc8750b8" width="250"></td>
         </tr>
     </tbody>
 </table>
